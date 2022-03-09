@@ -1,6 +1,6 @@
 #include "bsp_log.h"
 
-//
+//结构体初始化
 UART_HandleTypeDef muart1;
 GPIO_InitTypeDef GPIO_LOG_Init;
 
